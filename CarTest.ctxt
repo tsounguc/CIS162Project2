@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CarTest
+comment0.text=\r\n\ Description\:\ This\ code\ is\ a\ game\ created\ to\ test\ \r\n\ the\ code\ for\ the\ simpleCar\ class.\r\n\r\n\ @author\ Christian\ Tsoungui\ Nkoulou\r\n\ @version\ 2/12/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
